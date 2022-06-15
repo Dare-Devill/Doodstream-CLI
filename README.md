@@ -64,3 +64,14 @@ See `contributing.md` for ways to get started.
 
 For support join our [Telegram Group](https://telegram.me/pratham_vai).
 
+
+## To-do
+✅ Added Remote Upload 
+
+⬜ Make more beautiful results
+
+⬜ Upload from local storage 
+
+⬜ And much more....
+
+
